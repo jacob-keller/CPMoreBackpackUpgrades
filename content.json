@@ -69,7 +69,7 @@
 		},
 		{
 			"Action": "Load",
-			"Target": "aedenthorn.CPMoreBackpacks/backpacks",
+			"Target": "platinummyr.CPMoreBackpacks/backpacks",
 			"FromFile": "assets/backpacks.png"
 		}
 	]
