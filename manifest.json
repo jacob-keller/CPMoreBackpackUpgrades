@@ -1,11 +1,12 @@
 {
     "Name": "[CP] The Return of More Backpack Upgrades",
     "Author": "platinummyr",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Description": "More Backpacks (originally by aedenthorn).",
     "UniqueID": "platinummyr.CPMoreBackpacks",
     "MinimumApiVersion": "4.0.0",
     "ContentPackFor": {
        "UniqueID": "Pathoschild.ContentPatcher"
     },
+    "UpdateKeys": [ "Nexus:21591" ]
  }
